@@ -10,3 +10,8 @@
     padding: 0;
     color: rgb(33, 180, 199);
   }
+h1,
+h2,
+h3,
+h4 {
+  margin-bottom: 1rem;
